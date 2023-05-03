@@ -1,5 +1,6 @@
 cpu,cc,time
 Ryzen 5 3600,gcc,1.35
+G6900,,1.53
 Athlon 3000G,gcc,1.63
 G2030,,2.03
 i5-2520M,,2.35
@@ -12,7 +13,7 @@ Baikal 1.5 GHz,,6.32
 ia64 1.4 GHz,gcc,7.85
 E6400,,7.85
 AMD E1-6010,,10.18
-Xeon 2.40GHz,gcc,11.82
-p4 2.80GHz,,12.10
+Xeon 2.40 GHz,gcc,11.82
+p4 2.80 GHz,,12.10
 p4 2.66 GHz,,13.65
 pIII 500 MHz,,80
