@@ -1,20 +1,20 @@
 cpu,cc,time,hw-probe
-Ryzen 5 3600,gcc,1.35
-G6900,,1.53
-Athlon 3000G,gcc,1.63
-G2030,,2.03
-i5-2520M,,2.35
-Xeon X5550,,3.25
-J4125,,3.50
-Q6600,,3.65
+Ryzen 5 3600,gcc,1.35,
+G6900,,1.53,
+Athlon 3000G,gcc,1.63,
+G2030,,2.03,
+i5-2520M,,2.35,
+Xeon X5550,,3.25,
+J4125,,3.50,
+Q6600,,3.65,
 i3-M350,,3.71,https://bsd-hardware.info/?probe=7b529b0888
 E6420,,4.16,https://bsd-hardware.info/?probe=98e9deff3d
-E2200,,5.35
-Baikal 1.5 GHz,,6.32
-ia64 1.4 GHz,gcc,7.85
+E2200,,5.35,
+Baikal 1.5 GHz,,6.32,
+ia64 1.4 GHz,gcc,7.85,
 E6400,,7.85,https://bsd-hardware.info/?probe=5c227c5b61
-AMD E1-6010,,10.18
-Xeon 2.40 GHz,gcc,11.82
+AMD E1-6010,,10.18,
+Xeon 2.40 GHz,gcc,11.82,
 p4 2.80 GHz,,12.10,https://bsd-hardware.info/?probe=4fe4c14195
-p4 2.66 GHz,,13.65
-pIII 500 MHz,,80
+p4 2.66 GHz,,13.65,
+pIII 500 MHz,,80,
