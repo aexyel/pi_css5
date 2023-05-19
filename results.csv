@@ -14,7 +14,7 @@ Baikal 1.5 GHz,,6.32,
 ia64 1.4 GHz,gcc,7.85,is gone
 E6400,,7.85,https://bsd-hardware.info/?probe=5c227c5b61
 AMD E1-6010,,10.18,
-Xeon 2.40 GHz,gcc,11.82,tbd
+Xeon 2.40 GHz,gcc,11.82,https://linux-hardware.org/?probe=0823a08bd8
 p4 2.80 GHz,,12.10,https://bsd-hardware.info/?probe=4fe4c14195
 p4 2.66 GHz,,13.65,is gone
 pIII 500 MHz,,80,
