@@ -4,17 +4,24 @@ G6900,,1.53,
 Athlon 3000G,gcc,1.63,
 G2030,,2.03,tbd
 i5-2520M,,2.35,
-Xeon X5550,,3.25,tbd
+Xeon E5-2650L v3 1.80 GHz,gcc,2.35,
+Xeon X5550,,3.25,Apple MacPro 4.1 tbd
 J4125,,3.50,
 Q6600,,3.65,tbd
 i3-M350,,3.71,https://bsd-hardware.info/?probe=7b529b0888
 E6420,,4.16,https://bsd-hardware.info/?probe=98e9deff3d
 E2200,,5.35,https://bsd-hardware.info/?probe=05dea28605
+Athlon II X2 240,,6.27,
 Baikal 1.5 GHz,,6.32,
-ia64 1.4 GHz,gcc,7.85,is gone
+ARM Cortex-A53 1512 MHz -A72 2016 MHz ,gcc,7.66,asus tinker board 2s/2g/16g
+ia64 1.4 GHz,gcc,7.85,HP Integrity rx2660 is gone
 E6400,,7.85,https://bsd-hardware.info/?probe=5c227c5b61
+i5-8365U,icc,8,retest!
 AMD E1-6010,,10.18,
 Xeon 2.40 GHz,gcc,11.82,https://linux-hardware.org/?probe=0823a08bd8
 p4 2.80 GHz,,12.10,https://bsd-hardware.info/?probe=4fe4c14195
 p4 2.66 GHz,,13.65,is gone
+rv64imafdc 1008 MHz,gcc,23.61,Mango Pi MQ-Pro RISC-V SBC
+Atom Z550 2 GHz,,28.22,https://bsd-hardware.info/?probe=9dab449a23
+PowerPC 1.25 GHz,,42.21,PowerBook G4
 pIII 500 MHz,,80,
