@@ -5,6 +5,7 @@ Athlon 3000G,gcc,1.63,
 G2030,,2.03,tbd
 i5-2520M,,2.35,
 Xeon E5-2650L v3 1.80 GHz,gcc,2.35,
+i5 M 520,,3.01,https://bsd-hardware.info/?probe=194b8efa98
 Xeon X5550,,3.25,Apple MacPro 4.1 tbd
 J4125,,3.50,
 Q6600,,3.64,https://bsd-hardware.info/?probe=d4a26f9214
