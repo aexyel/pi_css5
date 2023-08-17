@@ -2,9 +2,11 @@ cpu,cc,time,hw-probe
 11800H 4600 MHz,gcc -march=tigerlake,1.02,
 Ryzen 5700G,,1.04,
 11800H 4600 MHz,gcc,1.11,
-M1 Pro,,1.18,
+M1 Max,,1.18,MacOS 13.5
+M1 Pro,,1.18,MacOS Sonoma
 M1 3200 MHz,,1.20,
 Ryzen 5 3600,gcc,1.35,
+Ampere (ARM64),,1.51,Oracle VDS Ampere (ARM64)
 G6900,,1.53,
 Athlon 3000G,gcc,1.63,
 RK3588,,2.02,
@@ -19,6 +21,7 @@ Q6600,,3.64,https://bsd-hardware.info/?probe=d4a26f9214
 i3-M350,,3.71,https://bsd-hardware.info/?probe=7b529b0888
 E6420,,4.16,https://bsd-hardware.info/?probe=98e9deff3d
 E2200,,5.35,https://bsd-hardware.info/?probe=05dea28605
+Elbrus E8C 1200MHz,,5.37,
 Athlon II X2 240,,6.27,
 Baikal 1.5 GHz,,6.32,
 ARM Cortex-A53 1512 MHz -A72 2016 MHz ,gcc,7.66,asus tinker board 2s/2g/16g
