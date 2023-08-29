@@ -9,6 +9,7 @@ Ryzen 5 3600,gcc,1.35,
 Ampere (ARM64),,1.51,Oracle VDS Ampere (ARM64)
 G6900,,1.53,
 Athlon 3000G,gcc,1.63,
+G4900 3.10 GHz,gcc,1.80,
 RK3588,,2.02,
 G2030,,2.03,tbd
 i5-8250U 1.6 GHz,,2.06,ThinkPad E580
