@@ -33,6 +33,7 @@ Itanium 1.4 GHz,gcc,7.85,HP Integrity rx2660 is gone
 E6400,,7.85,https://bsd-hardware.info/?probe=5c227c5b61
 i5-8365U,icc,8,retest!
 AMD E1-6010,,10.18,
+Athlon 64 3200+,,10.60,https://bsd-hardware.info/?probe=3dfb767d80
 RK3588 800 MHz,,11,
 Xeon 2.40 GHz,gcc,11.82,https://linux-hardware.org/?probe=0823a08bd8
 Pentium M 1.87 GHz,,11.85,https://bsd-hardware.info/?probe=d6fbc6ebfb
