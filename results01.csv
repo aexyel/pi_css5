@@ -1,0 +1,22 @@
+cpu,cc,time,hw-probe
+RK3588,,2.02,
+G2030,,2.03,tbd
+i5-8250U 1.6 GHz,,2.06,ThinkPad E580
+G4900 3.10 GHz,,2.19,
+Xeon E5-2697 v4 2.3 GHz,,2.26,https://bsd-hardware.info/?probe=63c10b6ae5
+i5-2520M,,2.35,
+Xeon E5-2650L v3 1.80 GHz,gcc,2.35,
+i5-M520,,3.01,https://bsd-hardware.info/?probe=194b8efa98
+Xeon X5550,,3.25,Apple MacPro 4.1 tbd
+J4125,,3.50,
+Q6600,,3.64,https://bsd-hardware.info/?probe=d4a26f9214
+i3-M350,,3.71,https://bsd-hardware.info/?probe=7b529b0888
+E6420,,4.16,https://bsd-hardware.info/?probe=98e9deff3d
+E2200,,5.35,https://bsd-hardware.info/?probe=05dea28605
+Elbrus E8C 1200MHz,,5.37,
+Athlon II X2 240,,6.27,
+Baikal 1.5 GHz,,6.32,
+ARM Cortex-A53 1512 MHz -A72 2016 MHz ,gcc,7.66,asus tinker board 2s/2g/16g
+Itanium 1.4 GHz,gcc,7.85,HP Integrity rx2660 is gone
+E6400,,7.85,https://bsd-hardware.info/?probe=5c227c5b61
+i5-8365U,icc,8,retest!
