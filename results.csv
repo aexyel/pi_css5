@@ -39,9 +39,9 @@ Athlon 64 3200+,,10.60,https://bsd-hardware.info/?probe=3dfb767d80
 L2400,,10.65,https://bsd-hardware.info/?probe=cad87ee9a5
 RK3588 800 MHz,,11,
 Xeon 2.40 GHz,gcc,11.82,https://linux-hardware.org/?probe=0823a08bd8
-Pentium M 1.87 GHz,,11.85,https://bsd-hardware.info/?probe=d6fbc6ebfb
 p4 2.80 GHz,,12.10,https://bsd-hardware.info/?probe=4fe4c14195
 p4 2.66 GHz,,13.65,is gone
+Pentium M 1.87 GHz,,14.62,https://bsd-hardware.info/?probe=1fc4bc2661
 Solo U1400,,15.39,https://bsd-hardware.info/?probe=bb055a94f0
 rv64imafdc 1008 MHz,gcc,23.61,Mango Pi MQ-Pro RISC-V SBC
 Celeron M 900 MHz,,26.84,https://bsd-hardware.info/?probe=2e55f5d4cc
