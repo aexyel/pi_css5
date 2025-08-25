@@ -2,6 +2,7 @@ cpu,cc,time,hw-probe
 11800H 4600 MHz,clang 16,1.00,
 11800H 4600 MHz,gcc -march=tigerlake,1.02,
 Ryzen 5700G,,1.04,
+Core Ultra 5 125U,,1.09,http://bsd-hardware.info/?probe=d769d43558
 11800H 4600 MHz,gcc,1.11,
 M1 Max,,1.18,MacOS 13.5
 M1 Pro,,1.18,MacOS Sonoma
